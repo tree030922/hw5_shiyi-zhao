@@ -69,4 +69,4 @@ Output is structured JSON, which the agent formats into a readable summary.
 
 ## Demo video
 
-[Video link here]
+[[Video link here]](https://youtu.be/wlo-o5kmMxE)
