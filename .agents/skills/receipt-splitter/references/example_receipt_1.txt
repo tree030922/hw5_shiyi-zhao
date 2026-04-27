@@ -1,0 +1,12 @@
+Bella Italia Ristorante
+123 Main Street
+Table 7 | Server: Marco
+------------------------------
+Margherita Pizza         $14.00
+Spaghetti Carbonara      $16.00
+House Salad               $8.00
+Glass of Red Wine         $9.00
+Tiramisu                  $7.50
+Sparkling Water           $3.00
+Tax (8.5%)                $4.89
+Tip (18%)                $10.35
