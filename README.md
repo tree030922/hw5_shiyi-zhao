@@ -1,4 +1,4 @@
-# hw5 — receipt-splitter
+# receipt-splitter
 
 ## What the skill does
 
